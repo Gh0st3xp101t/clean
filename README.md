@@ -1,2 +1,2 @@
 # clean
-This script clean all your log into your system Linux
+This script clean all log into your system Linux
